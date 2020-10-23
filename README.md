@@ -43,4 +43,4 @@ Similarly, change directory of the utils python to this .
 
 run main.py by selecting the root file in the files section of python.
 
-[Any queries regarding the project??](revnth@outlook.com)
+Any queries regarding the project?? drop a mail to - revnth@outlook.com
